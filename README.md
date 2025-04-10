@@ -10,10 +10,6 @@ This project implements the **gradient descent** and **stochastic gradient desce
 - **Step Size Effect**: Analyzing how varying the learning rate (step size) impacts convergence speed and stability.
 - **Mini-Batch Size Effect**: Investigating how the choice of mini-batch size influences the convergence behavior of SGD.
 
-## **Main Functions**
-
-### `error_plot` Function
-The `error_plot` function visualizes the error during optimization, plotting the error values across iterations. This function is useful to study the convergence behavior of the algorithm over time.
 
 # How to Set Up the Project
 
